@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "name": "Candidate_Emergency_Relief_Camps",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAMP-A",
+        "name": "Relief Site A (North)",
+        "location": "Bakshi Ka Talab Sports & Civic Grounds",
+        "tehsil": "Bakshi Ka Talab",
+        "elevation_m": 129.0,
+        "dist_to_gomti_m": 1420,
+        "dist_to_major_road_m": 120,
+        "dist_to_hospital_km": 1.8,
+        "nearest_hospital": "CHC Bakshi Ka Talab (BKT)",
+        "nearest_road": "Sitapur Highway (NH-24)",
+        "land_type": "Institutional & Open Public Ground",
+        "capacity_persons": 12500,
+        "suitability_score": 94,
+        "status": "Optimal Candidate"
+      },
+      "geometry": { "type": "Point", "coordinates": [80.932, 26.985] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAMP-B",
+        "name": "Relief Site B (East)",
+        "location": "Chinhat Sports & Inter College Campus",
+        "tehsil": "Lucknow Sadar (East)",
+        "elevation_m": 127.0,
+        "dist_to_gomti_m": 2210,
+        "dist_to_major_road_m": 80,
+        "dist_to_hospital_km": 1.1,
+        "nearest_hospital": "Dr. Ram Manohar Lohia Institute (RMLIMS)",
+        "nearest_road": "Faizabad Road (NH-27)",
+        "land_type": "Public Educational Campus & High Sports Ground",
+        "capacity_persons": 15000,
+        "suitability_score": 92,
+        "status": "Optimal Candidate"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.045, 26.885] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAMP-C",
+        "name": "Relief Site C (South)",
+        "location": "Mohanlalganj Public College Grounds",
+        "tehsil": "Mohanlalganj",
+        "elevation_m": 128.0,
+        "dist_to_gomti_m": 3850,
+        "dist_to_major_road_m": 150,
+        "dist_to_hospital_km": 2.4,
+        "nearest_hospital": "CHC Mohanlalganj / SGPGI Secondary",
+        "nearest_road": "Raebareli Highway (NH-30)",
+        "land_type": "Government Inter College & Public Open Grounds",
+        "capacity_persons": 18000,
+        "suitability_score": 90,
+        "status": "Optimal Candidate"
+      },
+      "geometry": { "type": "Point", "coordinates": [80.985, 26.680] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAMP-D",
+        "name": "Relief Site D (Southeast)",
+        "location": "Gosainganj Open Civic Grounds",
+        "tehsil": "Mohanlalganj (East)",
+        "elevation_m": 126.0,
+        "dist_to_gomti_m": 4120,
+        "dist_to_major_road_m": 210,
+        "dist_to_hospital_km": 2.8,
+        "nearest_hospital": "CHC Gosainganj",
+        "nearest_road": "Sultanpur Highway (NH-731)",
+        "land_type": "Civic Open Grounds & Agricultural Fallow",
+        "capacity_persons": 14000,
+        "suitability_score": 88,
+        "status": "Optimal Candidate"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.120, 26.772] }
+    }
+  ]
+}

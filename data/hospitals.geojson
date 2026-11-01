@@ -1,0 +1,2994 @@
+﻿{
+    "type":  "FeatureCollection",
+    "name":  "Lucknow_142_Healthcare_Facilities",
+    "crs":  {
+                "type":  "name",
+                "properties":  {
+                                   "name":  "urn:ogc:def:crs:OGC:1.3:CRS84"
+                               }
+            },
+    "features":  [
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-001",
+                                            "name":  "Daliganj Riverbank Emergency Clinic",
+                                            "address":  "Gomti Riverside, Daliganj",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  110,
+                                            "beds":  30,
+                                            "facility_type":  "Urban Health Center",
+                                            "phone":  "+91 522 2258901"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9324,
+                                                              26.8682
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-002",
+                                            "name":  "Gaughat Community Maternity Center",
+                                            "address":  "Gaughat Pumping Station Road, Chowk",
+                                            "risk":  "High",
+                                            "elev_m":  113,
+                                            "dist_to_river_m":  85,
+                                            "beds":  35,
+                                            "facility_type":  "Maternity Center",
+                                            "phone":  "+91 522 2258902"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9061,
+                                                              26.8792
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-003",
+                                            "name":  "Nishatganj Riverfront Health Post",
+                                            "address":  "Bandha Road, Nishatganj",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  130,
+                                            "beds":  20,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2258903"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9558,
+                                                              26.8574
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-004",
+                                            "name":  "Husainabad Urban Health Center",
+                                            "address":  "Near Clock Tower, Husainabad",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  210,
+                                            "beds":  40,
+                                            "facility_type":  "UPHC",
+                                            "phone":  "+91 522 2258904"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9148,
+                                                              26.8698
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-005",
+                                            "name":  "Machhi Bhavan Municipal Dispensary",
+                                            "address":  "Shah Meena Foot, Machhi Bhavan",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  190,
+                                            "beds":  25,
+                                            "facility_type":  "Dispensary",
+                                            "phone":  "+91 522 2258905"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9228,
+                                                              26.8662
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-006",
+                                            "name":  "Khadra Primary Health Clinic",
+                                            "address":  "Bandha Road, Khadra",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  170,
+                                            "beds":  22,
+                                            "facility_type":  "Primary Clinic",
+                                            "phone":  "+91 522 2258906"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9382,
+                                                              26.8752
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-007",
+                                            "name":  "Riverward Emergency Trauma Substation",
+                                            "address":  "Near Hanuman Setu Riverbank",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  95,
+                                            "beds":  30,
+                                            "facility_type":  "Trauma Post",
+                                            "phone":  "+91 522 2258907"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9415,
+                                                              26.8614
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-008",
+                                            "name":  "Gomti Barrage Emergency Post",
+                                            "address":  "Samta Mulak Chowk Riverside",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  90,
+                                            "beds":  15,
+                                            "facility_type":  "First Aid Post",
+                                            "phone":  "+91 522 2258908"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9818,
+                                                              26.8482
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-009",
+                                            "name":  "Pipraghat Riparian Health Center",
+                                            "address":  "Pipraghat Bridge Approach",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  160,
+                                            "beds":  20,
+                                            "facility_type":  "Sub-center",
+                                            "phone":  "+91 522 2258910"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.0318,
+                                                              26.8188
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-010",
+                                            "name":  "Gomti Nagar Extension Wetland Clinic",
+                                            "address":  "Sector 4 Riverward Basin",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  180,
+                                            "beds":  25,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2258911"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.0424,
+                                                              26.8122
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-011",
+                                            "name":  "Sultanpur Road Riverbed Dispensary",
+                                            "address":  "Gosainganj Riverbank Meander",
+                                            "risk":  "High",
+                                            "elev_m":  113,
+                                            "dist_to_river_m":  140,
+                                            "beds":  18,
+                                            "facility_type":  "Rural Dispensary",
+                                            "phone":  "+91 522 2258912"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.1082,
+                                                              26.7452
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-012",
+                                            "name":  "Mohan Meakins Riparian Health Post",
+                                            "address":  "Mohan Meakins Road, Daliganj",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  150,
+                                            "beds":  20,
+                                            "facility_type":  "Dispensary",
+                                            "phone":  "+91 522 2258913"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9022,
+                                                              26.8852
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-013",
+                                            "name":  "Old Daliganj Bridge Care Unit",
+                                            "address":  "Near Iron Bridge, Daliganj",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  120,
+                                            "beds":  28,
+                                            "facility_type":  "Care Unit",
+                                            "phone":  "+91 522 2258914"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9292,
+                                                              26.8644
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-014",
+                                            "name":  "Paper Mill Colony Riverside Clinic",
+                                            "address":  "Paper Mill Colony, Nishatganj",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  175,
+                                            "beds":  20,
+                                            "facility_type":  "Primary Clinic",
+                                            "phone":  "+91 522 2258915"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9478,
+                                                              26.8602
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-015",
+                                            "name":  "Laxman Mela Ground Emergency Unit",
+                                            "address":  "Laxman Mela Grounds, Riverfront",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  110,
+                                            "beds":  15,
+                                            "facility_type":  "Mobile Unit",
+                                            "phone":  "+91 522 2258916"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9618,
+                                                              26.8552
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-016",
+                                            "name":  "La Martiniere Lowland Health Post",
+                                            "address":  "Near Golf Club \u0026 Gomti Meander",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  230,
+                                            "beds":  15,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2258917"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9692,
+                                                              26.8398
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-017",
+                                            "name":  "Shaheed Path Lowland Health Substation",
+                                            "address":  "Shaheed Path River Crossing",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  145,
+                                            "beds":  20,
+                                            "facility_type":  "Emergency Post",
+                                            "phone":  "+91 522 2258918"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.0452,
+                                                              26.8052
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-018",
+                                            "name":  "Gosainganj Riparian Primary Dispensary",
+                                            "address":  "Gosainganj Canal Link",
+                                            "risk":  "High",
+                                            "elev_m":  113,
+                                            "dist_to_river_m":  190,
+                                            "beds":  22,
+                                            "facility_type":  "Dispensary",
+                                            "phone":  "+91 522 2258919"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.1152,
+                                                              26.7382
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-019",
+                                            "name":  "Malihabad Northern Gomti Basin Clinic",
+                                            "address":  "Near Malihabad-BKT Border",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  165,
+                                            "beds":  25,
+                                            "facility_type":  "Rural Clinic",
+                                            "phone":  "+91 522 2258920"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.7502,
+                                                              27.0422
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-020",
+                                            "name":  "Itaunja Gomti Tributary Health Post",
+                                            "address":  "Itaunja Riverside",
+                                            "risk":  "High",
+                                            "elev_m":  113,
+                                            "dist_to_river_m":  120,
+                                            "beds":  18,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2258921"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.7182,
+                                                              27.0852
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-021",
+                                            "name":  "BKT Gomti Riverward Primary Care",
+                                            "address":  "BKT South Riverbank",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  210,
+                                            "beds":  20,
+                                            "facility_type":  "Primary Clinic",
+                                            "phone":  "+91 522 2258922"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.8352,
+                                                              26.9652
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-022",
+                                            "name":  "Jopling Road Riverbank Nursing Clinic",
+                                            "address":  "Jopling Road Riverward",
+                                            "risk":  "High",
+                                            "elev_m":  115,
+                                            "dist_to_river_m":  195,
+                                            "beds":  24,
+                                            "facility_type":  "Nursing Clinic",
+                                            "phone":  "+91 522 2258923"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9522,
+                                                              26.8588
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-023",
+                                            "name":  "Haider Canal Outfall Health Clinic",
+                                            "address":  "Near Haider Canal Gomti Confluence",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  180,
+                                            "beds":  20,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2258924"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9682,
+                                                              26.8452
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-024",
+                                            "name":  "Kishorilal Memorial Lowland Clinic",
+                                            "address":  "Pipraghat Low Basin",
+                                            "risk":  "High",
+                                            "elev_m":  114,
+                                            "dist_to_river_m":  210,
+                                            "beds":  16,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2258925"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.0202,
+                                                              26.8282
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-025",
+                                            "name":  "Shifa Hospital (Kursi Road / Gudamba)",
+                                            "address":  "Near Gudamba Thana, Kursi Road, Lucknow - 226026",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  880,
+                                            "beds":  65,
+                                            "facility_type":  "Multi Speciality Hospital",
+                                            "phone":  "+91 522 2890560"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9634,
+                                                              26.9245
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-026",
+                                            "name":  "Shifa Clinic \u0026 Maternity Home (Thakurganj)",
+                                            "address":  "Victoria Street, Thakurganj, Chowk, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  120,
+                                            "dist_to_river_m":  620,
+                                            "beds":  35,
+                                            "facility_type":  "Maternity Clinic",
+                                            "phone":  "+91 522 2256711"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.898,
+                                                              26.867
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-027",
+                                            "name":  "Balrampur Hospital",
+                                            "address":  "Golaganj, Kaiserbagh, Lucknow - 226018",
+                                            "risk":  "Medium",
+                                            "elev_m":  120,
+                                            "dist_to_river_m":  580,
+                                            "beds":  750,
+                                            "facility_type":  "Government District Hospital",
+                                            "phone":  "+91 522 2224040"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9254,
+                                                              26.8507
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-028",
+                                            "name":  "Dr. Shyama Prasad Mukherjee (SPM) Civil Hospital",
+                                            "address":  "Park Road, Hazratganj, Lucknow - 226001",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  750,
+                                            "beds":  400,
+                                            "facility_type":  "Government District Hospital",
+                                            "phone":  "+91 522 2239088"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9462,
+                                                              26.8467
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-029",
+                                            "name":  "Vivekananda Polyclinic \u0026 Institute of Medical Sciences",
+                                            "address":  "Nirala Nagar, Lucknow - 226020",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  820,
+                                            "beds":  350,
+                                            "facility_type":  "Tertiary Care Hospital",
+                                            "phone":  "+91 522 2787001"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.942,
+                                                              26.878
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-030",
+                                            "name":  "Fatima Hospital",
+                                            "address":  "30, Faizabad Road, Mahanagar, Lucknow - 226006",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  920,
+                                            "beds":  200,
+                                            "facility_type":  "Charitable Hospital",
+                                            "phone":  "+91 522 2321456"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.951,
+                                                              26.883
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-031",
+                                            "name":  "Charak Hospital \u0026 Research Centre",
+                                            "address":  "Hardoi Bypass Crossing, Chowk, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  120,
+                                            "dist_to_river_m":  650,
+                                            "beds":  180,
+                                            "facility_type":  "Multi Speciality Hospital",
+                                            "phone":  "+91 522 2255789"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.898,
+                                                              26.869
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-032",
+                                            "name":  "Rani Laxmibai Combined Hospital",
+                                            "address":  "Sector C, Indira Nagar / Ring Road, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  890,
+                                            "beds":  120,
+                                            "facility_type":  "Government Combined Hospital",
+                                            "phone":  "+91 522 2356789"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.97,
+                                                              26.892
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-033",
+                                            "name":  "Community Health Center (CHC) Aliganj",
+                                            "address":  "Sector G, Aliganj, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  950,
+                                            "beds":  50,
+                                            "facility_type":  "Community Health Center",
+                                            "phone":  "+91 522 2345672"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.94,
+                                                              26.895
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-034",
+                                            "name":  "Community Health Center (CHC) Chinhat",
+                                            "address":  "Faizabad Road, Chinhat, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  880,
+                                            "beds":  60,
+                                            "facility_type":  "Community Health Center",
+                                            "phone":  "+91 522 2345674"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.035,
+                                                              26.882
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-035",
+                                            "name":  "Mahanagar Urban Primary Health Center",
+                                            "address":  "Sector B, Mahanagar, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  620,
+                                            "beds":  35,
+                                            "facility_type":  "UPHC",
+                                            "phone":  "+91 522 2345671"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.958,
+                                                              26.875
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-036",
+                                            "name":  "Alambagh Railway Divisional Hospital",
+                                            "address":  "Alambagh Railway Colony, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  910,
+                                            "beds":  120,
+                                            "facility_type":  "Railway Hospital",
+                                            "phone":  "+91 522 2345675"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.91,
+                                                              26.818
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-037",
+                                            "name":  "Sarojini Nagar Primary Health Center",
+                                            "address":  "Kanpur Road, Sarojini Nagar, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  850,
+                                            "beds":  45,
+                                            "facility_type":  "PHC",
+                                            "phone":  "+91 522 2345676"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.89,
+                                                              26.782
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-038",
+                                            "name":  "Faizabad Road Maternity Center",
+                                            "address":  "Near Wave Mall, Vibhuti Khand, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  720,
+                                            "beds":  30,
+                                            "facility_type":  "Maternity Center",
+                                            "phone":  "+91 522 2345677"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.015,
+                                                              26.872
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-039",
+                                            "name":  "Gomti Nagar Vikas Khand Health Post",
+                                            "address":  "Vikas Khand 3, Gomti Nagar, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  590,
+                                            "beds":  25,
+                                            "facility_type":  "UPHC",
+                                            "phone":  "+91 522 2345678"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.002,
+                                                              26.848
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-040",
+                                            "name":  "Jankipuram Extension Primary Hospital",
+                                            "address":  "Sector 6, Jankipuram Ext, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  960,
+                                            "beds":  55,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2345679"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.952,
+                                                              26.92
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-041",
+                                            "name":  "Kaiserbagh Eye \u0026 ENT Clinic",
+                                            "address":  "Near Kaiserbagh Bus Station, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  680,
+                                            "beds":  35,
+                                            "facility_type":  "Municipal Clinic",
+                                            "phone":  "+91 522 2345680"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.925,
+                                                              26.852
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-042",
+                                            "name":  "Indira Nagar Sector 14 Health Post",
+                                            "address":  "Sector 14, Indira Nagar, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  890,
+                                            "beds":  30,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2345681"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.985,
+                                                              26.885
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-043",
+                                            "name":  "Vibhuti Khand Urban Health Post",
+                                            "address":  "Vibhuti Khand, Gomti Nagar, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  670,
+                                            "beds":  25,
+                                            "facility_type":  "UPHC",
+                                            "phone":  "+91 522 2345682"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.008,
+                                                              26.861
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-044",
+                                            "name":  "Daliganj Crossing Polyclinic",
+                                            "address":  "Near Daliganj Railway Station, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  550,
+                                            "beds":  30,
+                                            "facility_type":  "Polyclinic",
+                                            "phone":  "+91 522 2345683"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.928,
+                                                              26.872
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-045",
+                                            "name":  "Chowk Sarfarazganj Link Health Post",
+                                            "address":  "Hardoi Road Link, Chowk, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  720,
+                                            "beds":  25,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2345684"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.889,
+                                                              26.873
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-046",
+                                            "name":  "Moti Nagar Maternity Home",
+                                            "address":  "Moti Nagar, Aishbagh, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  810,
+                                            "beds":  40,
+                                            "facility_type":  "Maternity Home",
+                                            "phone":  "+91 522 2345685"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.912,
+                                                              26.841
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-047",
+                                            "name":  "Aishbagh Primary Health Center",
+                                            "address":  "Mill Road, Aishbagh, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  890,
+                                            "beds":  35,
+                                            "facility_type":  "PHC",
+                                            "phone":  "+91 522 2345686"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.915,
+                                                              26.835
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-048",
+                                            "name":  "Telibagh Canal Road Clinic",
+                                            "address":  "Near Raebareli Road Canal, Telibagh",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  930,
+                                            "beds":  30,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2345687"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.938,
+                                                              26.792
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-049",
+                                            "name":  "Gomti Nagar Extension Sector 1 Health Post",
+                                            "address":  "Sector 1, Gomti Nagar Ext, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  710,
+                                            "beds":  25,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2345688"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.018,
+                                                              26.829
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-050",
+                                            "name":  "Hasanganj Ayush Health Center",
+                                            "address":  "Hasanganj Crossing, Babuganj, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  580,
+                                            "beds":  45,
+                                            "facility_type":  "Ayush Hospital",
+                                            "phone":  "+91 522 2345689"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.939,
+                                                              26.865
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-051",
+                                            "name":  "Wazirganj Combined Health Post",
+                                            "address":  "Wazirganj, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  620,
+                                            "beds":  30,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2345690"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.919,
+                                                              26.858
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-052",
+                                            "name":  "Saadatganj Municipal Dispensary",
+                                            "address":  "Saadatganj, Old Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  940,
+                                            "beds":  25,
+                                            "facility_type":  "Dispensary",
+                                            "phone":  "+91 522 2345691"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.895,
+                                                              26.854
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-053",
+                                            "name":  "Rajajipuram Sector E Primary Care",
+                                            "address":  "Sector E, Rajajipuram, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  980,
+                                            "beds":  40,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2345692"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.887,
+                                                              26.845
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-054",
+                                            "name":  "Singar Nagar Urban Clinic",
+                                            "address":  "Singar Nagar, Alambagh, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  960,
+                                            "beds":  30,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2345693"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.902,
+                                                              26.812
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-055",
+                                            "name":  "Triveni Nagar Primary Health Center",
+                                            "address":  "Sitapur Road, Triveni Nagar, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  810,
+                                            "beds":  35,
+                                            "facility_type":  "PHC",
+                                            "phone":  "+91 522 2345694"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.922,
+                                                              26.892
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-056",
+                                            "name":  "Keshav Nagar Urban Health Post",
+                                            "address":  "Keshav Nagar, Sitapur Road, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  850,
+                                            "beds":  25,
+                                            "facility_type":  "UPHC",
+                                            "phone":  "+91 522 2345695"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.918,
+                                                              26.898
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-057",
+                                            "name":  "Faizullaganj Relief Medical Center",
+                                            "address":  "Faizullaganj, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  790,
+                                            "beds":  35,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2345696"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.908,
+                                                              26.908
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-058",
+                                            "name":  "Madehganj Maternity \u0026 Family Welfare",
+                                            "address":  "Madehganj, Old Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  121,
+                                            "dist_to_river_m":  640,
+                                            "beds":  30,
+                                            "facility_type":  "Maternity",
+                                            "phone":  "+91 522 2345697"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.931,
+                                                              26.878
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-059",
+                                            "name":  "Ismailganj Urban Health Unit",
+                                            "address":  "Ismailganj, Indira Nagar, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  920,
+                                            "beds":  30,
+                                            "facility_type":  "UPHC",
+                                            "phone":  "+91 522 2345698"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.012,
+                                                              26.879
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-060",
+                                            "name":  "Kamta Health Sub-center",
+                                            "address":  "Kamta Crossing, Faizabad Road, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  850,
+                                            "beds":  25,
+                                            "facility_type":  "Sub-center",
+                                            "phone":  "+91 522 2345699"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.028,
+                                                              26.879
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-061",
+                                            "name":  "Vrindavan Yojana Sector 1 Health Post",
+                                            "address":  "Sector 1, Vrindavan Yojana, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  980,
+                                            "beds":  35,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2345700"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.962,
+                                                              26.785
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-062",
+                                            "name":  "Utrathia Urban Dispensary",
+                                            "address":  "Utrathia, Raebareli Road, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  970,
+                                            "beds":  25,
+                                            "facility_type":  "Dispensary",
+                                            "phone":  "+91 522 2345701"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.932,
+                                                              26.768
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-063",
+                                            "name":  "Malhaur Railway Crossing Health Post",
+                                            "address":  "Malhaur, Gomti Nagar Ext, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  780,
+                                            "beds":  20,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2345702"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.035,
+                                                              26.845
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-064",
+                                            "name":  "Gosainganj Market Health Post",
+                                            "address":  "Main Market, Gosainganj, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  123,
+                                            "dist_to_river_m":  950,
+                                            "beds":  30,
+                                            "facility_type":  "UPHC",
+                                            "phone":  "+91 522 2345703"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.118,
+                                                              26.772
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-065",
+                                            "name":  "Sarojini Nagar Transport Nagar Clinic",
+                                            "address":  "Transport Nagar, Kanpur Road, Lucknow",
+                                            "risk":  "Medium",
+                                            "elev_m":  122,
+                                            "dist_to_river_m":  990,
+                                            "beds":  25,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2345704"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.875,
+                                                              26.775
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-066",
+                                            "name":  "King George\u0027s Medical University (KGMU)",
+                                            "address":  "Shah Mina Road, Chowk, Lucknow - 226003",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1100,
+                                            "beds":  4500,
+                                            "facility_type":  "Apex Medical University",
+                                            "phone":  "+91 522 2257450"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9164,
+                                                              26.8675
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-067",
+                                            "name":  "Sanjay Gandhi Postgraduate Inst. of Medical Sciences (SGPGI)",
+                                            "address":  "Raebareli Road, Lucknow - 226014",
+                                            "risk":  "Low",
+                                            "elev_m":  131,
+                                            "dist_to_river_m":  3200,
+                                            "beds":  1800,
+                                            "facility_type":  "Apex Tertiary Care Institute",
+                                            "phone":  "+91 522 2668004"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9361,
+                                                              26.7464
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-068",
+                                            "name":  "Medanta Hospital Lucknow",
+                                            "address":  "Sector A, Pocket 1, Amar Shaheed Path, Golf City, Lucknow - 226030",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2400,
+                                            "beds":  1000,
+                                            "facility_type":  "Super Speciality Hospital",
+                                            "phone":  "+91 522 4505050"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9857,
+                                                              26.7773
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-069",
+                                            "name":  "Dr. Ram Manohar Lohia Inst. of Medical Sciences (RMLIMS)",
+                                            "address":  "Vibhuti Khand, Gomti Nagar, Lucknow - 226010",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1600,
+                                            "beds":  1200,
+                                            "facility_type":  "Autonomous Medical Institute",
+                                            "phone":  "+91 522 6692000"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.9997,
+                                                              26.8689
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-070",
+                                            "name":  "Command Hospital (Central Command)",
+                                            "address":  "Cantonment, Lucknow - 226002",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  1950,
+                                            "beds":  850,
+                                            "facility_type":  "Military Apex Hospital",
+                                            "phone":  "+91 522 2480055"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.965,
+                                                              26.822
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-071",
+                                            "name":  "Apollomedics Super Speciality Hospital",
+                                            "address":  "Sector B, Bargawan, LDA Colony, Kanpur Road, Lucknow - 226012",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2800,
+                                            "beds":  330,
+                                            "facility_type":  "Super Speciality Hospital",
+                                            "phone":  "+91 522 6677777"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.902,
+                                                              26.795
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-072",
+                                            "name":  "Sahara Hospital (Max Healthcare)",
+                                            "address":  "Viraj Khand, Gomti Nagar, Lucknow - 226010",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2100,
+                                            "beds":  350,
+                                            "facility_type":  "Super Speciality Hospital",
+                                            "phone":  "+91 522 6780001"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.025,
+                                                              26.852
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-073",
+                                            "name":  "Era\u0027s Lucknow Medical College \u0026 Hospital",
+                                            "address":  "Sarfarazganj, Hardoi Road, Lucknow - 226003",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2500,
+                                            "beds":  850,
+                                            "facility_type":  "Medical College Hospital",
+                                            "phone":  "+91 522 2408122"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.875,
+                                                              26.885
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-074",
+                                            "name":  "Lok Bandhu Shri Rajnarayan Combined Hospital",
+                                            "address":  "Sector E, LDA Colony, Kanpur Road, Lucknow - 226012",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2650,
+                                            "beds":  300,
+                                            "facility_type":  "District Combined Hospital",
+                                            "phone":  "+91 522 2470088"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.885,
+                                                              26.798
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-075",
+                                            "name":  "Mayo Institute of Medical Sciences / Mayo Hospital",
+                                            "address":  "Vikas Khand, Gomti Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2200,
+                                            "beds":  400,
+                                            "facility_type":  "Medical College Hospital",
+                                            "phone":  "+91 522 2817888"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.012,
+                                                              26.882
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-076",
+                                            "name":  "Community Health Center Bakshi Ka Talab (BKT)",
+                                            "address":  "Near Tehsil HQ, Sitapur Road, Lucknow - 226201",
+                                            "risk":  "Low",
+                                            "elev_m":  130,
+                                            "dist_to_river_m":  1850,
+                                            "beds":  60,
+                                            "facility_type":  "Community Health Center",
+                                            "phone":  "+91 522 2770100"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.925,
+                                                              26.985
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-077",
+                                            "name":  "Community Health Center Mohanlalganj",
+                                            "address":  "Raebareli Highway, Mohanlalganj, Lucknow - 226301",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  3600,
+                                            "beds":  60,
+                                            "facility_type":  "Community Health Center",
+                                            "phone":  "+91 522 2740100"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.99,
+                                                              26.685
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-078",
+                                            "name":  "Community Health Center Malihabad",
+                                            "address":  "Malihabad Town, Lucknow - 226102",
+                                            "risk":  "Low",
+                                            "elev_m":  131,
+                                            "dist_to_river_m":  4500,
+                                            "beds":  50,
+                                            "facility_type":  "Community Health Center",
+                                            "phone":  "+91 522 2780100"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.71,
+                                                              26.92
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-079",
+                                            "name":  "Community Health Center Gosainganj",
+                                            "address":  "Sultanpur Highway, Gosainganj, Lucknow - 226501",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2900,
+                                            "beds":  50,
+                                            "facility_type":  "Community Health Center",
+                                            "phone":  "+91 522 2790100"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.125,
+                                                              26.765
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-080",
+                                            "name":  "Community Health Center Kakori",
+                                            "address":  "Kakori Town, Lucknow - 226101",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  3800,
+                                            "beds":  45,
+                                            "facility_type":  "Community Health Center",
+                                            "phone":  "+91 522 2730100"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.795,
+                                                              26.87
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-081",
+                                            "name":  "Sardar Patel Institute of Dental \u0026 Medical Sciences",
+                                            "address":  "Raebareli Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  130,
+                                            "dist_to_river_m":  3100,
+                                            "beds":  150,
+                                            "facility_type":  "Dental \u0026 Medical Institute",
+                                            "phone":  "+91 522 2442001"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.945,
+                                                              26.755
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-082",
+                                            "name":  "Career Institute of Medical Sciences \u0026 Hospital",
+                                            "address":  "Sitapur-Hardoi Bypass, Ghailla, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  1950,
+                                            "beds":  600,
+                                            "facility_type":  "Medical College Hospital",
+                                            "phone":  "+91 522 2442002"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.885,
+                                                              26.918
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-083",
+                                            "name":  "T.S. Mishra Medical College \u0026 Hospital",
+                                            "address":  "Amausi, Sarojini Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  3400,
+                                            "beds":  700,
+                                            "facility_type":  "Medical College Hospital",
+                                            "phone":  "+91 522 2442003"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.865,
+                                                              26.748
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-084",
+                                            "name":  "Integral Institute of Medical Sciences \u0026 Research",
+                                            "address":  "Dasauli, Kursi Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  130,
+                                            "dist_to_river_m":  4200,
+                                            "beds":  800,
+                                            "facility_type":  "Medical College Hospital",
+                                            "phone":  "+91 522 2442004"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.002,
+                                                              26.96
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-085",
+                                            "name":  "Ajanta Hospital \u0026 IVF Centre",
+                                            "address":  "Alambagh, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  126,
+                                            "dist_to_river_m":  2100,
+                                            "beds":  100,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442005"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.898,
+                                                              26.815
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-086",
+                                            "name":  "Avadh Hospital \u0026 Heart Centre",
+                                            "address":  "Singar Nagar, Alambagh, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  126,
+                                            "dist_to_river_m":  2200,
+                                            "beds":  120,
+                                            "facility_type":  "Heart Hospital",
+                                            "phone":  "+91 522 2442006"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.895,
+                                                              26.811
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-087",
+                                            "name":  "Midland Healthcare \u0026 Research Center",
+                                            "address":  "Mandi Parishad Road, Mahanagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1800,
+                                            "beds":  150,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442007"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.965,
+                                                              26.885
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-088",
+                                            "name":  "Chandan Hospital",
+                                            "address":  "Faizabad Road, Vijayipur Underpass, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1450,
+                                            "beds":  300,
+                                            "facility_type":  "Super Speciality",
+                                            "phone":  "+91 522 2442008"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.018,
+                                                              26.878
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-089",
+                                            "name":  "Ford Hospital",
+                                            "address":  "Patrakarpuram, Gomti Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1650,
+                                            "beds":  100,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442009"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.015,
+                                                              26.849
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-090",
+                                            "name":  "St. Joseph Hospital",
+                                            "address":  "Vipin Khand, Gomti Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1750,
+                                            "beds":  120,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442010"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.02,
+                                                              26.855
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-091",
+                                            "name":  "Icon Hospital",
+                                            "address":  "Sector 8, Indira Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2100,
+                                            "beds":  80,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442011"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.982,
+                                                              26.889
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-092",
+                                            "name":  "Shekhar Hospital",
+                                            "address":  "B-Block, Indira Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1700,
+                                            "beds":  150,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442012"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.975,
+                                                              26.882
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-093",
+                                            "name":  "Nova Hospital",
+                                            "address":  "Vibhuti Khand, Gomti Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1500,
+                                            "beds":  75,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442013"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.012,
+                                                              26.858
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-094",
+                                            "name":  "Javitri Hospital \u0026 Test Tube Baby Centre",
+                                            "address":  "Telibagh, Raebareli Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2300,
+                                            "beds":  100,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442014"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.941,
+                                                              26.782
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-095",
+                                            "name":  "Health City Hospital",
+                                            "address":  "1/53 NH, Gomti Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1400,
+                                            "beds":  150,
+                                            "facility_type":  "Super Speciality",
+                                            "phone":  "+91 522 2442015"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.005,
+                                                              26.862
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-096",
+                                            "name":  "Tender Palm Super Speciality Hospital",
+                                            "address":  "Amar Shaheed Path, Sector 7, Gomti Nagar Ext",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  1600,
+                                            "beds":  300,
+                                            "facility_type":  "Super Speciality",
+                                            "phone":  "+91 522 2442016"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.015,
+                                                              26.812
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-097",
+                                            "name":  "Sanjeevani Medical Centre",
+                                            "address":  "Kapoorthala, Aliganj, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1900,
+                                            "beds":  60,
+                                            "facility_type":  "Medical Centre",
+                                            "phone":  "+91 522 2442017"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.948,
+                                                              26.892
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-098",
+                                            "name":  "Vindhya Hospital",
+                                            "address":  "Jankipuram Main Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2400,
+                                            "beds":  70,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442018"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.945,
+                                                              26.915
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-099",
+                                            "name":  "Neera Hospital",
+                                            "address":  "Mahanagar Extension, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1850,
+                                            "beds":  80,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442019"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.958,
+                                                              26.888
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-100",
+                                            "name":  "Chandra Hospital",
+                                            "address":  "Ring Road, Indira Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2350,
+                                            "beds":  90,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442020"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.985,
+                                                              26.892
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-101",
+                                            "name":  "Prakash Hospital \u0026 Trauma Centre",
+                                            "address":  "Sector 11, Indira Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2400,
+                                            "beds":  70,
+                                            "facility_type":  "Trauma Center",
+                                            "phone":  "+91 522 2442021"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.992,
+                                                              26.884
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-102",
+                                            "name":  "Raj Chandra Hospital",
+                                            "address":  "Dubagga, Hardoi Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  4200,
+                                            "beds":  60,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442022"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.858,
+                                                              26.864
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-103",
+                                            "name":  "Rajnish Hospital",
+                                            "address":  "Ashiana Colony, Kanpur Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2500,
+                                            "beds":  50,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442023"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.912,
+                                                              26.786
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-104",
+                                            "name":  "Shakuntala Hospital",
+                                            "address":  "Vikas Nagar, Ring Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2600,
+                                            "beds":  45,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442024"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.965,
+                                                              26.898
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-105",
+                                            "name":  "Ganga Hospital",
+                                            "address":  "Sitapur Road, Bakshi Ka Talab, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  1900,
+                                            "beds":  50,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442025"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.928,
+                                                              26.972
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-106",
+                                            "name":  "Sahu Hospital",
+                                            "address":  "Mohanlalganj Town, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  3700,
+                                            "beds":  40,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442026"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.988,
+                                                              26.682
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-107",
+                                            "name":  "Kalyan Hospital",
+                                            "address":  "Malihabad Main Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  130,
+                                            "dist_to_river_m":  4400,
+                                            "beds":  35,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442027"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.718,
+                                                              26.924
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-108",
+                                            "name":  "Om Hospital",
+                                            "address":  "Gosainganj Rural Hub, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  3100,
+                                            "beds":  40,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442028"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.122,
+                                                              26.768
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-109",
+                                            "name":  "Sunrise Hospital",
+                                            "address":  "Kakori Station Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  3700,
+                                            "beds":  45,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442029"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.802,
+                                                              26.874
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-110",
+                                            "name":  "Aarogyam Hospital",
+                                            "address":  "Jankipuram Sector F, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  2800,
+                                            "beds":  65,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442030"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.948,
+                                                              26.924
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-111",
+                                            "name":  "Divine Hospital",
+                                            "address":  "Viraj Khand 4, Gomti Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2400,
+                                            "beds":  75,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442031"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.032,
+                                                              26.852
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-112",
+                                            "name":  "Jeevan Jyoti Hospital",
+                                            "address":  "Alambagh Chander Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  126,
+                                            "dist_to_river_m":  1900,
+                                            "beds":  55,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442032"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.902,
+                                                              26.822
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-113",
+                                            "name":  "Brij Medical Center",
+                                            "address":  "Rajajipuram Block C, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2700,
+                                            "beds":  40,
+                                            "facility_type":  "Medical Center",
+                                            "phone":  "+91 522 2442033"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.882,
+                                                              26.842
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-114",
+                                            "name":  "Surya Hospital",
+                                            "address":  "Ashiana Sector M, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2900,
+                                            "beds":  50,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442034"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.908,
+                                                              26.782
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-115",
+                                            "name":  "Vinayak Hospital",
+                                            "address":  "Kursi Road, Tedhi Pulia, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1950,
+                                            "beds":  60,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442035"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.958,
+                                                              26.908
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-116",
+                                            "name":  "Sanskriti Hospital",
+                                            "address":  "Faizabad Road, Matiyari, Chinhat",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2100,
+                                            "beds":  55,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442036"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.048,
+                                                              26.885
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-117",
+                                            "name":  "Global Hospital",
+                                            "address":  "Mohan Road, Buddheshwar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  3600,
+                                            "beds":  70,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442037"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.865,
+                                                              26.838
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-118",
+                                            "name":  "Apex Trauma \u0026 Ortho Centre",
+                                            "address":  "Amar Shaheed Path, South City",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2800,
+                                            "beds":  65,
+                                            "facility_type":  "Trauma Center",
+                                            "phone":  "+91 522 2442038"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.952,
+                                                              26.778
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-119",
+                                            "name":  "Life Care Hospital",
+                                            "address":  "Sector 18, Indira Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2700,
+                                            "beds":  50,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442039"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.995,
+                                                              26.889
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-120",
+                                            "name":  "Care \u0026 Cure Hospital",
+                                            "address":  "Vrindavan Sector 5, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  3300,
+                                            "beds":  60,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442040"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.975,
+                                                              26.772
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-121",
+                                            "name":  "Dr. Sushila Tiwari Memorial Hospital",
+                                            "address":  "Dubagga Crossing, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  4500,
+                                            "beds":  80,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442041"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.852,
+                                                              26.862
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-122",
+                                            "name":  "City Hospital \u0026 Heart Center",
+                                            "address":  "Alambagh VIP Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2600,
+                                            "beds":  90,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442042"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.892,
+                                                              26.818
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-123",
+                                            "name":  "Avicenna Hospital",
+                                            "address":  "Sarfarazganj Hardoi Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2900,
+                                            "beds":  85,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442043"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.868,
+                                                              26.882
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-124",
+                                            "name":  "Prasad Hospital \u0026 Nursing Home",
+                                            "address":  "Sarojini Nagar Industrial Area",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  3100,
+                                            "beds":  50,
+                                            "facility_type":  "Nursing Home",
+                                            "phone":  "+91 522 2442044"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.878,
+                                                              26.755
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-125",
+                                            "name":  "Niramay Hospital",
+                                            "address":  "Itaunja Market Center, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  131,
+                                            "dist_to_river_m":  3900,
+                                            "beds":  40,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442045"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.842,
+                                                              27.082
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-126",
+                                            "name":  "Mahona Rural Health Center",
+                                            "address":  "Mahona Town, BKT, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  132,
+                                            "dist_to_river_m":  5200,
+                                            "beds":  35,
+                                            "facility_type":  "PHC",
+                                            "phone":  "+91 522 2442046"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.912,
+                                                              27.112
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-127",
+                                            "name":  "Nigohan Combined Hospital",
+                                            "address":  "Nigohan, Mohanlalganj, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  6500,
+                                            "beds":  45,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442047"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.995,
+                                                              26.582
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-128",
+                                            "name":  "Nagram Community Clinic",
+                                            "address":  "Nagram Town, Mohanlalganj, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  5800,
+                                            "beds":  30,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2442048"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.125,
+                                                              26.618
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-129",
+                                            "name":  "Rahimabad Rural Health Post",
+                                            "address":  "Rahimabad, Malihabad, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  133,
+                                            "dist_to_river_m":  7200,
+                                            "beds":  30,
+                                            "facility_type":  "Health Post",
+                                            "phone":  "+91 522 2442049"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.642,
+                                                              26.985
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-130",
+                                            "name":  "Banthra Community Health Center",
+                                            "address":  "Banthra, Kanpur Road, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  4800,
+                                            "beds":  50,
+                                            "facility_type":  "CHC",
+                                            "phone":  "+91 522 2442050"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.835,
+                                                              26.715
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-131",
+                                            "name":  "Bijnoor Primary Health Center",
+                                            "address":  "Bijnoor Road, Sarojini Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2800,
+                                            "beds":  40,
+                                            "facility_type":  "PHC",
+                                            "phone":  "+91 522 2442051"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.915,
+                                                              26.742
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-132",
+                                            "name":  "Jankipuram Extension Trauma Care",
+                                            "address":  "Sector 7, Jankipuram Ext, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  129,
+                                            "dist_to_river_m":  3100,
+                                            "beds":  55,
+                                            "facility_type":  "Trauma Care",
+                                            "phone":  "+91 522 2442052"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.958,
+                                                              26.932
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-133",
+                                            "name":  "Aliganj Maternal Care Hospital",
+                                            "address":  "Sector H, Aliganj, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2200,
+                                            "beds":  45,
+                                            "facility_type":  "Maternity",
+                                            "phone":  "+91 522 2442053"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.945,
+                                                              26.898
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-134",
+                                            "name":  "Indira Nagar C-Block Health Center",
+                                            "address":  "C-Block, Indira Nagar, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2100,
+                                            "beds":  40,
+                                            "facility_type":  "Health Center",
+                                            "phone":  "+91 522 2442054"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.982,
+                                                              26.882
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-135",
+                                            "name":  "Gomti Nagar Phase 2 General Clinic",
+                                            "address":  "Sector 5, Gomti Nagar Ext, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  1450,
+                                            "beds":  35,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2442055"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.025,
+                                                              26.822
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-136",
+                                            "name":  "Telibagh Super Care Hospital",
+                                            "address":  "Telibagh Main Crossing, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  127,
+                                            "dist_to_river_m":  2400,
+                                            "beds":  50,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442056"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.945,
+                                                              26.791
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-137",
+                                            "name":  "Ashiana Orthopaedic Center",
+                                            "address":  "Sector L, Ashiana Colony, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2700,
+                                            "beds":  45,
+                                            "facility_type":  "Speciality Clinic",
+                                            "phone":  "+91 522 2442057"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.915,
+                                                              26.789
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-138",
+                                            "name":  "Rajajipuram Mother \u0026 Child Clinic",
+                                            "address":  "Sector 11, Rajajipuram, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  3100,
+                                            "beds":  35,
+                                            "facility_type":  "Clinic",
+                                            "phone":  "+91 522 2442058"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.878,
+                                                              26.845
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-139",
+                                            "name":  "Vrindavan General Hospital",
+                                            "address":  "Sector 6B, Vrindavan Yojana, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  3400,
+                                            "beds":  60,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442059"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.968,
+                                                              26.768
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-140",
+                                            "name":  "Chinhat Upland Community Hospital",
+                                            "address":  "Deva Road, Chinhat, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  2300,
+                                            "beds":  50,
+                                            "facility_type":  "Hospital",
+                                            "phone":  "+91 522 2442060"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              81.042,
+                                                              26.892
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-141",
+                                            "name":  "BKT Rural Maternity Home",
+                                            "address":  "Itaunja Road, Bakshi Ka Talab, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  130,
+                                            "dist_to_river_m":  2100,
+                                            "beds":  40,
+                                            "facility_type":  "Maternity",
+                                            "phone":  "+91 522 2442061"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.922,
+                                                              26.989
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "id":  "H-142",
+                                            "name":  "Mohanlalganj South Trauma Clinic",
+                                            "address":  "Near Tehsil Road, Mohanlalganj, Lucknow",
+                                            "risk":  "Low",
+                                            "elev_m":  128,
+                                            "dist_to_river_m":  3800,
+                                            "beds":  45,
+                                            "facility_type":  "Trauma Clinic",
+                                            "phone":  "+91 522 2442062"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              80.992,
+                                                              26.678
+                                                          ]
+                                      }
+                     }
+                 ]
+}

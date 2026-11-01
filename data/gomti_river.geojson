@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "name": "Gomti_River_Corridor",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gomti River",
+        "type": "Perennial River",
+        "tributary_of": "Ganga River",
+        "flow_direction": "Northwest to Southeast",
+        "channel_length_in_district_km": 88.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80.705, 27.095], [80.742, 27.050], [80.785, 27.005], [80.828, 26.962],
+          [80.865, 26.920], [80.898, 26.892], [80.912, 26.875], [80.922, 26.866],
+          [80.932, 26.861], [80.941, 26.863], [80.955, 26.858], [80.972, 26.852],
+          [80.988, 26.845], [81.008, 26.832], [81.026, 26.818], [81.045, 26.802],
+          [81.072, 26.775], [81.108, 26.742], [81.145, 26.708], [81.185, 26.665]
+        ]
+      }
+    }
+  ]
+}

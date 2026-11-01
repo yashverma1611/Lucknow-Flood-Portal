@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "name": "Lucknow_District_Boundary",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "DISTRICT": "Lucknow",
+        "STATE": "Uttar Pradesh",
+        "AREA_SQKM": 2528.00,
+        "TEHSILS": ["Lucknow Sadar", "Bakshi Ka Talab", "Malihabad", "Mohanlalganj", "Sarojini Nagar"],
+        "ELEVATION_MIN": 110.0,
+        "ELEVATION_MAX": 135.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [80.60, 27.15], [80.75, 27.18], [80.95, 27.15], [81.08, 27.08],
+          [81.18, 26.98], [81.22, 26.85], [81.20, 26.70], [81.12, 26.55],
+          [80.98, 26.48], [80.82, 26.52], [80.70, 26.62], [80.52, 26.78],
+          [80.50, 26.95], [80.60, 27.15]
+        ]]
+      }
+    }
+  ]
+}
